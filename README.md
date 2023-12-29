@@ -1,5 +1,5 @@
 ### Hi there, I'm @super-SuPer-dev
-I'm a student that want to make my own AGI.
+I'm a student that want to make an AGI.
 
 - 🔭 I’m currently working on AI chatbot
 - 🌱 I’m currently learning AI, Chatbot and LLMs
